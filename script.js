@@ -2,6 +2,8 @@ console.log('Hello Agata!')
 
 // data types in JS
 
+//primitives
+
 // strig
 var textVariable = "Agata"
 console.log(textVariable)
@@ -21,3 +23,11 @@ console.log(nulVariable)
 // undefined
 var undefinedVariable = undefined
 console.log(undefinedVariable)
+
+//objects
+
+var simplestObj = {
+    name: "Agata",
+    lastname: "Plecha"
+}
+console.log(simplestObj)
